@@ -1,0 +1,8 @@
+FOTOMATÓN WEB GRATUITO — FALLA CARRER DE LLÍRIA — HALLOWEEN 2026
+
+Incluye index.html y marco_halloween.png.
+Para que funcione en móviles, debe publicarse en una web HTTPS; abrir el HTML directamente no suele permitir la cámara.
+
+Publicación gratuita sugerida: GitHub Pages. Crea una cuenta en github.com, crea un repositorio público, sube index.html y marco_halloween.png (en la raíz), entra en Settings > Pages, en Build and deployment elige Deploy from a branch, selecciona main y /(root), y guarda. Cuando GitHub muestre la dirección publicada, ábrela en el móvil y prueba la cámara. Luego usa esa dirección para generar un QR.
+
+Nota: la cámara pide permiso al usuario. La foto se procesa en el dispositivo y se descarga; esta página no envía las fotos a un servidor.
